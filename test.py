@@ -9,4 +9,6 @@ y=4
 def add(x,y):
     return x+y
 print(add(x,y))
-print("fd")
+def minus(x,y):
+    return x-y
+print(minus(x,y))
