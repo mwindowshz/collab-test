@@ -12,3 +12,5 @@ print(add(x,y))
 def minus(x,y):
     return x-y
 print(minus(x,y))
+
+print("hi chen how are you progressing with your git journey?")
